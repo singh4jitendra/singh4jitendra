@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
-  <title id="title">Jitendra Singh - Systems, cloud, and AI infrastructure</title>
+  <title id="title">Jitendra Singh - Platform architecture, Azure Storage, and AI infrastructure</title>
   <desc id="description">A dark navy banner with teal and blue accents, connecting code, observability, and trust.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -20,10 +20,10 @@
   <circle cx="920" cy="330" r="170" fill="#14b8a6" opacity="0.06"/>
   <rect x="60" y="58" width="56" height="5" rx="2.5" fill="url(#accent)"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="60" y="103" font-size="18" font-weight="600" letter-spacing="3" fill="#5eead4">SYSTEMS / CLOUD / AI INFRASTRUCTURE</text>
+    <text x="60" y="103" font-size="18" font-weight="600" letter-spacing="3" fill="#5eead4">PLATFORM ARCHITECTURE / STORAGE / AI</text>
     <text x="56" y="180" font-size="66" font-weight="700" letter-spacing="-1.5" fill="#f1f5f9">Jitendra Singh</text>
-    <text x="60" y="230" font-size="25" fill="#cbd5e1">Observable systems. Thoughtful engineering.</text>
-    <text x="60" y="271" font-size="20" fill="#94a3b8">Open source | Confidential computing | Applied ML</text>
+    <text x="60" y="230" font-size="25" fill="#cbd5e1">Cloud platforms. Intelligent recovery.</text>
+    <text x="60" y="271" font-size="20" fill="#94a3b8">Azure Storage | Kubernetes &amp; OpenShift | AI for operations</text>
   </g>
   <g stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.7">
     <path d="M 850 172 L 1010 102 L 1084 235 Z"/>
